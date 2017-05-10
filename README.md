@@ -3,9 +3,9 @@
 Table of contents
 =================
 
-  * [Problem Statement ](#Problem Statement)
+  * [Problem Statement ](#problem-statement)
   * [System requierments](#system-requierments)
-  * [Steps to build](#Steps to build)
+  * [Steps to build](#steps-to-build)
   * [Steps to run](#steps-to-run)
   * [Steps to run unit Spec](#steps-to-run-unit-spec)
   * [Running evaluation](#running-evaluation)
